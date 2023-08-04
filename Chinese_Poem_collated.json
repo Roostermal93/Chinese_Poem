@@ -1,0 +1,63 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "b28e8c89-579c-4edf-b941-c43d5024369f",
+            "collectionId": "Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Chinese/b28e8c89-579c-4edf-b941-c43d5024369f_ch_Female.mp4"
+        },
+        {
+            "id": "8ce5faa3-d74c-4e3a-90c7-a7da668be0ba",
+            "collectionId": "Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Chinese/8ce5faa3-d74c-4e3a-90c7-a7da668be0ba_ch_Male.mp4"
+        },
+        {
+            "id": "63ec0d00-1739-43b6-8e28-a42af4e46c34",
+            "collectionId": "Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Chinese/63ec0d00-1739-43b6-8e28-a42af4e46c34_ch_Female.mp4"
+        },
+        {
+            "id": "edcd9758-f1c1-4e7f-8327-bfa3d1766e3c",
+            "collectionId": "Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Chinese/edcd9758-f1c1-4e7f-8327-bfa3d1766e3c_ch_Female.mp4"
+        },
+        {
+            "id": "ab52f652-1bd8-4c0d-ae4c-5c7a9b25578c",
+            "collectionId": "Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Chinese/ab52f652-1bd8-4c0d-ae4c-5c7a9b25578c_ch_Male.mp4"
+        },
+        {
+            "id": "6e938240-994b-4ffd-94a9-d22c07505581",
+            "collectionId": "Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Chinese/6e938240-994b-4ffd-94a9-d22c07505581_ch_Male.mp4"
+        },
+        {
+            "id": "b835bc34-941b-40a3-835d-971194202e5c",
+            "collectionId": "Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Chinese/b835bc34-941b-40a3-835d-971194202e5c_ch_Male.mp4"
+        },
+        {
+            "id": "0f50cf87-6e85-4806-ab07-c1e9dfc97c44",
+            "collectionId": "Chinese",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Chinese/0f50cf87-6e85-4806-ab07-c1e9dfc97c44_ch_Female.mp4"
+        }
+    ]
+}
